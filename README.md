@@ -1,11 +1,5 @@
 # IoT-EnergySim
 
-Simulation code for the paper:
-
-> **"A Mechanism for Analyzing the Energy Consumption and Environmental Impact of LoRa Sensors Over Time"**  
-> Vandirleya Barbosa, Melissa Alves, Iago Almeida, Iure Fé, Jean Araujo, Francisco Airton Silva  
-> *Under review*
-
 This repository provides the NS-3 simulation script used to validate the Stochastic Petri Net (SPN) model proposed in the paper. The simulation models the energy consumption and CO₂ emissions of a LoRa Class A sensor node based on the SX1276 transceiver datasheet parameters.
 
 ---
